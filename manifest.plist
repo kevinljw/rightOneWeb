@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.yourCompany.productName</string>
+                <string>ljw.informa.backbone</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>YOUR APP NAME</string>
+                <string>Right On Target App</string>
             </dict>
         </dict>
     </array>
