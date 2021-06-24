@@ -15,7 +15,9 @@
 	<header></header>
 	<main>
     <img src="images/app-icon-512.png" alt="" id="game-icon">
+    
     <a href="itms-services://?action=download-manifest&url=https://kevinljw.github.io/rightOneWeb/manifest.plist"><img id="download-icon" src="images/icon-ios.png" alt=""></a>
+    <div id="hint">點擊以上按鈕後，請按下「安裝」並回到iPad主畫面</div>
     </main>
 	<footer></footer>
 	<script type="text/javascript" src=""></script>
@@ -31,7 +33,13 @@
         #download-icon{
             width: 35vw;
             display: block;
-            margin: 10vw auto;
+            margin: 10vw auto 20px;
+        }
+        #hint{
+            display: block;
+            text-align: center;
+            color: #fff;
+            
         }
     </style>
 </body>
